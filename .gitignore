@@ -1,0 +1,4 @@
+*~
+*.bak
+*.log
+ecad/gschem/plotfiles/*.*
